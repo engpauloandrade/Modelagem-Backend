@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OkbzX2HUcP06yrGGq6/7+JFAqnztka98qxq2XRaES4Eo90vAESMoJYfs1e/XDtlIrHMJX3jMm/hGFuALAxVLow==",
+  "dgSpecHash": "mXsSg18vP6ZBKligozK/JvJvWmgstfWI6cNS+znyRFdMLfXmNxjwjnvYenbps0NZuOpf1HGYw1/olU9v+nz9jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\CRUD_MODELAGEM\\Modelagem\\Modelagem\\Modelagem.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\MODELAGEM\\Back-end\\Modelagem\\Modelagem\\Modelagem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",

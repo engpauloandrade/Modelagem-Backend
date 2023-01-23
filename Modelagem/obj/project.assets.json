@@ -1238,11 +1238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\CRUD_MODELAGEM\\Modelagem\\Modelagem\\Modelagem.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\MODELAGEM\\Back-end\\Modelagem\\Modelagem\\Modelagem.csproj",
       "projectName": "Modelagem",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\CRUD_MODELAGEM\\Modelagem\\Modelagem\\Modelagem.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\MODELAGEM\\Back-end\\Modelagem\\Modelagem\\Modelagem.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\CRUD_MODELAGEM\\Modelagem\\Modelagem\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\PROJETOS\\MODELAGEM\\Back-end\\Modelagem\\Modelagem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
